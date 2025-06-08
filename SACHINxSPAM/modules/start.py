@@ -1,21 +1,21 @@
-# ©️ @SACHIN_OWNER || @V_VIP_OWNER
+# ©️ @WTF_NoHope || @WTF_NoHope
 from telethon import __version__, events, Button
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_OP = [
     [
-        Button.url("🍁 sᴀᴄʜɪɴ", "https://t.me/V_VIP_OWNER"),
-        Button.url("ᴜsᴇʀʙᴏᴛ 🕸️", "https://t.me/SANATANI_X_ROBOT")
+        Button.url("🍁 AKASH", "https://t.me/Akash_Daksh1c"),
+        Button.url("MUSIC BOT 🕸️", "https://t.me/AD_Creation_Chatzone")
     ],
     [
         Button.inline("🥀 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs 🥀", data="help_back")
     ],
     [
-        Button.url("✨ ᴜᴘᴅᴀᴛᴇ", "https://t.me/All_SANATANI_BOT"),
-        Button.url("sᴜᴘᴘᴏʀᴛ ❄️", "https://t.me/+Ckzm2ypQyIIzZTll")
+        Button.url("✨ ᴜᴘᴅᴀᴛᴇ", "https://t.me/Sanatani_Network"),
+        Button.url("sᴜᴘᴘᴏʀᴛ ❄️", "https://t.me/AD_Creation_Chatzone")
     ],
     [
-        Button.url("🌸 ᴊᴏɪɴ ғᴏʀ sᴜᴅᴏ 🌸", "https://t.me/+Ckzm2ypQyIIzZTll")
+        Button.url("🌸 ᴊᴏɪɴ ғᴏʀ sᴜᴅᴏ 🌸", "https://t.me/SanataniSpamNetwork")
     ],
 ]
 
