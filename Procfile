@@ -1,2 +1,2 @@
-# ©️ @SACHIN_OWNER || @V_VIP_OWNER
+# ©️ @WTF_NoHope || @WTF_NoHope
 ItzSanatani: python -m main.py
