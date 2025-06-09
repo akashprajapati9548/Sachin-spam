@@ -15,7 +15,7 @@ START_OP = [
         Button.url("sᴜᴘᴘᴏʀᴛ ❄️", "https://t.me/AD_Creation_Chatzone")
     ],
     [
-        Button.url("🌸 ᴊᴏɪɴ ғᴏʀ sᴜᴅᴏ 🌸", "https://t.me/SanataniSpamNetwork")
+        Button.url("🌸 ᴊᴏɪɴ ғᴏʀ sᴜᴅᴏ 🌸", "https://t.me/AD_Creation_Chatzone")
     ],
 ]
 
